@@ -13,11 +13,11 @@ $ git checkout gh-pages
 
 ### Mod Download Links
 
-<a href="raycore.md">Ray Core</a>
+[Ray Core](raycore)
 
-<a href="mariodeath.md">Mario Mod 2</a>
+[Mario Mod 2](mariodeath)
 
-<a href="raysadditions.md">Rays Additions</a>
+[Rays Additions](raysadditions)
 
 <ul>
   {% for post in site.posts %}
