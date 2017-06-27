@@ -7,6 +7,14 @@ $ git fetch origin
 $ git checkout gh-pages
 ```
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.
 
 ### Designer Templates
