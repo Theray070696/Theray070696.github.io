@@ -10,7 +10,9 @@ $ git checkout gh-pages
 ### Mod Download Links
 
 <a href="raycore.md">Ray Core</a>
+
 <a href="mariodeath.md">Mario Mod 2</a>
+
 <a href="raysadditions.md">Rays Additions</a>
 
 <ul>
@@ -23,4 +25,3 @@ $ git checkout gh-pages
 
 ### Authors and Contributors
 You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
-
