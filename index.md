@@ -15,7 +15,7 @@ $ git checkout gh-pages
 
 [Ray Core](raycore)
 
-[Mario Mod 2](mariodeath)
+[Mario Mod 2](Mario-Mod-2)
 
 [Rays Additions](raysadditions)
 
